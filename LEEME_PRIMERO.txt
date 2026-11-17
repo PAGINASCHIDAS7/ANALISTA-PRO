@@ -1,0 +1,11 @@
+ANALISTA PRO - PAQUETE CON SELECCION NUEVA
+
+1. Extrae la carpeta 'Lista Pro' completa.
+2. Mantén todos los archivos dentro de esa misma carpeta.
+3. Abre 'index.html' para entrar a la página de inicio.
+4. Desde allí, pulsa 'Comenzar estrategia' para abrir 'seleccion.html'.
+5. La selección abre los HTML existentes de PC y celular.
+6. Windows 32 y 64 bits abren sus carpetas de MEGA.
+7. Android descarga el APK incorporado en 'seleccion.html'.
+
+No cambies los nombres de los archivos HTML ni los separes de la carpeta.
